@@ -33,7 +33,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <html>
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title>Ninyoh Login Page</title>
+<title>Mc Stephen Alumbro Login Page</title>
 </head>
 <body>
 <div class="container">
@@ -56,7 +56,7 @@ if ( $failure !== false ) {
 </form>
 <p>
 <br>
-username: ninyoh@yahoo.com
+username: mcstephenalumbro@gmail.com
 <br>
 password: meow123
 </p></br>
