@@ -20,7 +20,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </head>
 
 <body>
-<H2> Database Results </H2>
+<H3> Registered Autos </H3>
 <div class="container">
     <table border="1">
 <?php
